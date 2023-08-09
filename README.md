@@ -21,3 +21,4 @@ traders.
 ![](https://github.com/polawatsri099/Stock-Price-Prediction/blob/main/Model%20Architecture%20(LSTM).png)
 # Time Series Analysis
 # Makowitz Portfolio Selection Theory
+![](https://github.com/polawatsri099/Stock-Price-Prediction/blob/main/Markowitz%20test.png)
