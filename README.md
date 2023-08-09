@@ -17,6 +17,7 @@ ness of the proposed prediction model was evaluated using a standard
 measurement metric, the Root Mean Square error. The results indicate
 that the proposed framework is an effective decision-support tool for day
 traders.
-# LSTM 
+# LSTM
+![](https://github.com/polawatsri099/Stock-Price-Prediction/blob/main/Model%20Architecture%20(LSTM).png)
 # Time Series Analysis
 # Makowitz Portfolio Selection Theory
