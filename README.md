@@ -1,5 +1,7 @@
 # Stock-Price-Prediction
 Abstract
+
+
 This research paper presents a decision-support framework for invest-
 ment in the stock market with unexpected incidents. The data used for
 the study are energy resource stocks with incidences that affected the
