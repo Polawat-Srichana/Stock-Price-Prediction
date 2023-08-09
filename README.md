@@ -23,3 +23,5 @@ traders.
 ![](https://github.com/polawatsri099/Stock-Price-Prediction/blob/main/Model%20Architecture%20(LSTM).png)
 # Makowitz Portfolio Selection Theory
 ![](https://github.com/polawatsri099/Stock-Price-Prediction/blob/main/Markowitz%20test.png)
+# Result
+![](https://github.com/polawatsri099/Stock-Price-Prediction/blob/main/Result-LSTM.png)
